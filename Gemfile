@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+ruby '2.5.1'
+gem 'json'
+gem 'rubocop', '~> 0.57.2'
+gem 'google_drive'
+gem 'dotenv'
+gem 'twitter'
+gem 'rspec'
+gem 'pry'
+gem 'nokogiri'
+gem 'watir'
+gem "clipboard"
+gem 'dotenv'
